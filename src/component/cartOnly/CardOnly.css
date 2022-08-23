@@ -1,0 +1,18 @@
+.cardOnly{
+    position: sticky;
+    top: 0;
+}
+.cardDetails h4{
+    text-align: left;
+    margin-bottom: 5%;
+}
+.cardDetails p{
+    text-align: left;
+   
+}
+.cardDetails h5{
+    text-align: left;
+}
+.cardDetails{
+    margin-top: 10%;
+}

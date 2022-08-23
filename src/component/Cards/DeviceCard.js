@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import './DeviceCard.css';
 import Items from '../Items/Items';
 import CardOnly from '../cartOnly/CardOnly';
+
 const DeviceCard = () => {
 
     const [Products , setProducts] = useState([]);
@@ -57,6 +58,9 @@ const DeviceCard = () => {
                 <div className='orderSummery' >
 
                   <CardOnly Cart={Cart}></CardOnly>
+
+
+               
 
                 </div>
 

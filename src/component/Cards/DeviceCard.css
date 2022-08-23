@@ -18,9 +18,10 @@
 }
 .orderSummery{
 
-    height: 800px;
+    
     background-color: rgb(224, 224, 224);
     border-radius: 10px;
+    padding: 10px 60px;
 }
 .orderSummery h3{
 
