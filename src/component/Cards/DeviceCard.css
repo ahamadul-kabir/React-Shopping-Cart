@@ -1,0 +1,30 @@
+.Product-Header-Title {
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.product-cart{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.ProductDiv{
+
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.allProduct{
+    padding: 0 3%;
+}
+.orderSummery{
+
+    height: 800px;
+    background-color: rgb(224, 224, 224);
+    border-radius: 10px;
+}
+.orderSummery h3{
+
+    padding-top: 5%;
+
+    
+}
